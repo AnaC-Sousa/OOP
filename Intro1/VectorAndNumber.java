@@ -1,4 +1,4 @@
-package tp1;
+package intro1;
 
 public class VectorAndNumber {
 

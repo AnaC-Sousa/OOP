@@ -1,4 +1,4 @@
-package tp1;
+package intro1;
 
 public class LeapYear {
 
@@ -9,7 +9,7 @@ public class LeapYear {
 				System.out.println(i);
 			}
 		}
-		
+
 	}
 	/**
 	 * checks if a year is a leap year or not.

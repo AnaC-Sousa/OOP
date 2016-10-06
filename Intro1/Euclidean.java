@@ -1,4 +1,4 @@
-package tp1;
+package intro1;
 
 public class Euclidean {
 
@@ -20,4 +20,3 @@ public class Euclidean {
 		}
 	}
 }
-	
